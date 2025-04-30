@@ -1,6 +1,6 @@
 # requirements.txt
 fastapi
-uvicorn[standard]
+uvicorn
 scikit-learn
 joblib
 numpy
